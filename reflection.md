@@ -1,0 +1,7 @@
+# Reflection
+
+After reviewing my previous assignments and comparing them to Leo’s posted solutions in `Realistic.java`, I realized there were several things I did well and some areas I need to improve. For example, in my earlier code I understood the basic logic of finding the smallest value and removing it, but my approach was more manual and not as efficient. Leo's solutions were cleaner and used better structure, especially the use of temporary arrays and edge-case handling.
+
+One thing I got close but not quite right was how to shrink arrays after removing the smallest element. I used too many steps and didn't think about using the index properly when skipping the smallest item. I also didn’t include enough comments before, and now I understand how important it is to explain what each part of the code is doing.
+
+I learned a lot from comparing my approach to Leo's. His style showed me how to simplify my logic and keep code clean and readable. Going forward, I’ll start my assignments earlier and make sure I thoroughly comment my code. I’ll also test more often to catch mistakes earlier. This reflection helped me realize that taking the time to plan and test can save time and improve quality in the long run.
